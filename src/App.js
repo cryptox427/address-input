@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import AddressInput from './AddressInput';
+import AddressInput from './components/AddressInput';
 
 function App() {
   return (
